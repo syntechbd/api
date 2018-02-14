@@ -1,0 +1,7 @@
+CodeIgniter REST API:
+https://www.youtube.com/watch?v=-F7FsNrxdAM&list=PLv0IALOPBoYVXeZR3goHcVCKSjBiwUwi4&index=8
+https://github.com/chriskacerguis/codeigniter-restserver
+https://stackoverflow.com/questions/43406721/token-based-authentication-in-codeigniter-rest-server-library
+
+Sending a username and password with PHP CURL
+https://www.electrictoolbox.com/php-curl-sending-username-password/
