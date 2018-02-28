@@ -12,6 +12,7 @@ class Sms extends REST_Controller
         $this->load->model('Sms_model');
     }
     
+    ##  http://localhost/api/sms/client_subscription_info/2
     public function client_subscription_info_get($client_id)
     {
         $data = $this->Sms_model->get_subscription_data($client_id);
